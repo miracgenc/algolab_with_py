@@ -1,0 +1,7 @@
+# -> tek line comment için
+
+""" 
+arasına yazılanlar uzun commentler için
+"""
+
+printte -> print("test",test) yazarsan arasında boşlukla print("test" + test) yazarsan arasında boşluk olmadan
