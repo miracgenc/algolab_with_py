@@ -5,3 +5,9 @@ arasına yazılanlar uzun commentler için
 """
 
 printte -> print("test",test) yazarsan arasında boşlukla print("test" + test) yazarsan arasında boşluk olmadan
+
+print(f" test = {ilk}") -> f'in sebebi {} içindeki ilk değişkeninin özel olduğunu belirtmek ve + ya da , olmadan yazdırmak
+
+degisken.title() -> baş harflerini büyük yazar
+degisken.split() -> parantez içindekine göre ayırır
+degisken.strip() -> başındaki ve sonundaki boşlukları siler
