@@ -1,5 +1,2 @@
-
-test1 = ["123","456"]
-test = ["asd","fgh",test1,"asyqwe"]
-
-print(test[2][1][1])
+print(len("-31313131313131313131"))
+print(len("-10261313131313131313"))

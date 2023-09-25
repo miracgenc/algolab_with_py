@@ -46,7 +46,7 @@ print fonksiyonunun parametreleri bulunur (end ve sep)
 pythondaki print fonksiyonunun sonunda default olarak \n bulunur (yani otomatik alt satıra iner)
 bunu engellemek için "end" parametresi boşluk olarak ayarlanabilir
 
-Örnek vermek gerekiyose
+Örnek vermek gerekiyorsa
 
 print("test1")
 print("test2") 
@@ -81,7 +81,7 @@ a+b+c+d şeklinde olacaktır.
 
 sep ve end parametrelerine integer değerler verilemez 
 
-print("a","b", sep=3) veya print("a","b", end=1) şeklindeki programlar hata verecektir
+print("a","b", sep=1) veya print("a","b", end=1) şeklindeki programlar hata verecektir
 ====================================================
 
 
