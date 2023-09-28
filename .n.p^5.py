@@ -17,7 +17,7 @@ k=1
 liste = []
 
 def asalmi(n):
-    for i in range(2,int(n**0.5)+1):
+    for i in range(2,int(n)):
         if n%i==0:
             return False
         
