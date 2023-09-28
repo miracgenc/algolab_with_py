@@ -34,8 +34,4 @@ while((i**5) <= sayi):
     else:
         i+=1
 
-i=0
-
-
-
 print(liste)
