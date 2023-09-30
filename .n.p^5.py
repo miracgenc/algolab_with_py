@@ -9,8 +9,6 @@ In fact, Melih's aim is to make Ömer work and eat all the cookies in the house 
 """
 
 
-
-
 sayi = int(input(""))
 i=2
 k=1

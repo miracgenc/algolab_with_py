@@ -1,3 +1,7 @@
+# https://algoleague.com/problem/harun-and-sami/detail
+
+
+
 tursayisi = input("")
 tursayisi = tursayisi.split(" ")
 for i in range(len(tursayisi)):
