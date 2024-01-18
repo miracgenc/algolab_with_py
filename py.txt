@@ -14,10 +14,6 @@ len(a) -> 4
 
 ==========================================================
 
-
-
-
-
 ===========================================================
 print(f" test = {ilk}") -> f'in sebebi {} içindeki değişkeninin özel olduğunu belirtmek ve + ya da , olmadan yazdırmak
 

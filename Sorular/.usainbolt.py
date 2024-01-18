@@ -1,5 +1,6 @@
 yaris = int(input(""))
-puanlar = input().split(" ").strip()
+puanlar = input().strip()
+puanlar = puanlar.split(" ")
 i = 0
 while (i < len(puanlar)):
     puanlar[i] = int(puanlar[i])
